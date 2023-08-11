@@ -1,0 +1,303 @@
+çit, fence
+hakkında, about
+yukarıda, above
+erişilebilir, accessible to
+e göre, according to
+başarı, achievement
+karşısında, across
+kabul etmek, admit
+yaklaşma, dont approach
+yarar, benefit
+aday, candidate
+vatandaş, citizen
+ticari, commercial
+ortak, common
+karşılaştırmak, compare
+ilgilendirmek, concern
+şart, condition
+rağmen, despite
+sırasında, during
+çaba, effort
+kurmak, establish
+delil, evidence
+zemin, ground
+çoğunluk, majority
+ölçüm, measure
+neredeyse, nearly
+almak, pick
+hazırlamak, prepare
+engel olmak, prevent
+üretmek, produce
+yükseltmek, raise
+teslim almak, receive
+tanımak, recognize
+temsil etmek, represent
+aramak, seek
+şey, stuff
+yapı, structure
+boyunca, throughout
+tedavi etmek, treat
+tava, pan
+nemli, damp
+silme, wipe
+dolap, closet
+görünüm, view
+tava, pan
+oldukça, pretty
+şu anda, currently
+uzak, far
+başka, else
+başöğretmen, headmaster
+müdür, principal
+çözmek, figure out
+cetvel, ruler
+pastel boya, crayon
+öğrenci, pupil
+hüsran, frustration
+oldukça emin, pretty sure
+temel bilgiler, fundamentals
+engel, obstacle
+benzersiz, unique
+yerine, rather
+altında, beneath
+dişi geyik, doe
+eksen, axis
+yatay, horizontal
+dikey, vertical
+özet geç, summarize
+özet, recap
+sınır, boundary
+belirli, certain
+bakan, minister
+müdahale, intervention
+rağmen, though
+hatta, even
+yeniden kullanmak, reusing
+bire bir aynı, exact
+belirtir, denotes
+aslında, in fact
+ortaya çıkmak, spawn
+mermi, projectile
+mektup, letter
+uygun, convenient
+örneklendirmek, instantiate
+hastalık, disease
+bağışıklık, immune
+düzenli, orderly
+geyik, deer
+açıklama, statement
+geyik, moose
+yeniden düzenlemek, rearrange
+dağınık, messy
+derinlik, depth
+tanım, definition
+benzer, similar
+dış ses, narrator
+yapabilen, able
+hakkında, about
+yukarıdaki, above
+erişilebilir, accessible to
+e göre, according to
+başarı, achievement
+karşısında, across
+kabul etmek, admit
+yetişkin, adult
+etki etmek, affect
+dikten sonra, after
+öğleden sonra, afternoon
+ondan sonra, afterwards
+tekrar, again
+aleyhinde, against
+yaş, age
+ajan, agent
+önce, ago
+katılmak, agree
+ilerde, ahead
+hava, air
+her şey, all
+peki, all right
+neredeyse, almost
+yalnız, alone
+süresince, along
+zaten, already
+ayrıca, also
+gerçi, although
+büsbütün, altogether
+her zaman, always
+arasında, among
+ve, and
+hiç, any
+hiç kimse, anybody
+hiç kimse, anyone
+hiçbir şey, anything
+her halükârda, anyway
+herhangi bir yere, anywhere
+görünmek, appear
+elma, apple
+başvurmak, apply
+yaklaşım, approach
+nisan, April
+alan, area
+tartışmak, argue
+kol, arm
+etrafta, around
+varmak, arrive
+sanat, art
+makale, article
+sanatçı, artist
+kadar, as
+sormak, ask
+varsaymak, assume
+atak, attack
+dikkat, attention
+avukat, attorney
+seyirci, audience
+ağustos, August
+yazar, author
+yetki, authority
+önlemek, avoid
+uzakta, away
+bebek, baby
+geri, back
+kötü, bad
+sırt çantası, bag
+top, ball
+banka, bank
+bar, bar
+temel, base
+olmak, be
+dövmek, beat
+güzel, beautiful
+çünkü, because
+haline gelmek, become
+yatak, bed
+önce, before
+başlamak, begin
+davranış, behavior
+arkada, behind
+inanmak, believe
+aşağı, below
+fayda, benefit
+yanında, beside
+ayrıca, besides
+en iyi, best
+daha iyisi, better
+arasında, between
+ötesinde, beyond
+büyük, big
+fatura, bill
+milyar, billion
+siyah, black
+kan, blood
+zaman, time
+gün, day
+yıl, year
+insanlar, people
+erkek, man
+kadın, woman
+çocuk, child
+aile, family
+arkadaş, friend
+iş, work
+para, money
+ev, house
+yiyecek, food
+su, water
+aşk, love
+hayat, life
+dünya, world
+şehir, city
+ülke, country
+okul, school
+kitap, book
+müzik, music
+film, movie
+hafta, week
+ay, month
+sabah, morning
+akşam, evening
+gece, night
+gündüz, daytime
+güneş, sun
+ay, moon
+yıldız, star
+gökyüzü, sky
+dünya, earth
+doğa, nature
+hayvan, animal
+köpek, dog
+kedi, cat
+kuş, bird
+çiçek, flower
+ağaç, tree
+orman, forest
+dağ, mountain
+nehir, river
+deniz, sea
+plaj, beach
+güneş ışığı, sunlight
+hava durumu, weather
+rüzgar, wind
+yağmur, rain
+kar, snow
+bulut, cloud
+ateş, fire
+hava, air
+yol, road
+araba, car
+bisiklet, bicycle
+tren, train
+otobüs, bus
+iyi, good
+kötü, bad
+mutlu, happy
+üzgün, sad
+sinirli, angry
+yorgun, tired
+meşgul, busy
+kolay, easy
+zor, difficult
+büyük, big
+küçük, small
+sıcak, hot
+soğuk, cold
+yeni, new
+eski, old
+güzel, beautiful
+çirkin, ugly
+ilginç, interesting
+sıkıcı, boring
+heyecan verici, exciting
+eğlenceli, fun
+ciddi, serious
+komik, funny
+önemli, important
+kullanışlı, useful
+tehlikeli, dangerous
+güvenli, safe
+sağlıklı, healthy
+hasta, sick
+temiz, clean
+kirli, dirty
+sessiz, quiet
+gürültülü, noisy
+hızlı, fast
+yavaş, slow
+güçlü, strong
+zayıf, weak
+mutlu, happy
+üzgün, sad
+heyecanlı, excited
+şaşırmış, surprised
+korkmuş, afraid
+gururlu, proud
+utanmış, embarrassed
+kafası karışmış, confused
+zeki, smart
+aptal, stupid
+nazik, kind
+kaba, mean
+kibar, polite
+terbiyesiz, rude
+verimli, efficient
+tanıdık, familiar

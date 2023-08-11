@@ -1,0 +1,345 @@
+able,yapabilen
+about,hakkında
+above,yukarıdaki
+accessible to,erişilebilir
+according to, e göre
+achievement, başarı
+across, karşısında
+admit, kabul etmek
+adult, yetişkin
+affect,etki etmek
+after, dikten sonra
+afternoon, öğleden sonra
+afterwards, ondan sonra
+again, tekrar
+against,aleyhinde
+age, yaş
+agent,ajan
+ago, önce
+agree,katılmak
+ahead,ilerde
+air,hava
+all,her şey
+all right,peki
+almost, neredeyse
+alone, yalnız
+along, süresince
+already, zaten
+also, üstelik
+although,gerçi
+altogether, büsbütün
+always, her zaman
+among, arasında
+and, ve
+any, hiç
+anybody, hiç kimse
+anyone, hiç kimse
+anything, hiçbir şey
+anyway, her halükârda
+anywhere, herhangi bir yere
+appear, görünmek
+apple, elma
+apply, başvurmak
+approach, yaklaşım
+April, nisan
+area, alan
+argue, tartışmak
+arm, kol
+around, etrafta
+arrive, varmak
+art, sanat
+article, makale
+artist, sanatçı
+as, kadar
+ask, sormak
+assume, varsaymak
+attack, atak
+attention, dikkat
+attorney, avukat
+audience, seyirci
+August, ağustos
+author, yazar
+authority, yetki
+avoid, önlemek
+away, uzakta
+baby, bebek
+back, geri
+bad, kötü
+bag, sırt çantası
+ball, top
+bank, banka
+bar, bar, baro
+base, temel, baz
+be, olmak, var olmak
+beat, dövmek, yenmek
+beautiful, güzel, hoş
+because, çünkü
+become, haline gelmek
+bed, yatak
+before, önce
+begin, başlamak
+behavior, davranış
+behind, arkada
+believe, inanmak
+below, aşağı
+benefit,fayda
+beside,yanında
+besides, ayrıca
+best, en iyi
+better, daha iyisi
+between, arasında
+beyond, ötesinde
+big, büyük
+bill, fatura
+billion, milyar
+black, siyah
+blood, kan
+time, zaman
+day, gün
+year, yıl
+people, insanlar
+man, erkek
+woman, kadın
+child, çocuk
+family, aile
+friend, arkadaş
+work, iş
+money, para
+house, ev
+food, yiyecek
+water, su
+love, aşk
+life, hayat
+world, dünya
+city, şehir
+country, ülke
+school, okul
+book, kitap
+music, müzik
+movie, film
+time, zaman
+week, hafta
+month, ay
+morning, sabah
+evening, akşam
+night, gece
+daytime, gündüz
+sun, güneş
+moon, ay
+star, yıldız
+sky, gökyüzü
+earth, dünya
+nature, doğa
+animal, hayvan
+dog, köpek
+cat, kedi
+bird, kuş
+flower, çiçek
+tree, ağaç
+forest, orman
+mountain, dağ
+river, nehir
+sea, deniz
+beach, plaj
+sunlight, güneş ışığı
+weather, hava durumu
+wind, rüzgar
+rain, yağmur
+snow, kar
+cloud, bulut
+fire, ateş
+air, hava
+road, yol
+car, araba
+bicycle, bisiklet
+train, tren
+bus, otobüs
+good, iyi
+bad, kötü
+happy, mutlu
+sad, üzgün
+angry, sinirli
+tired, yorgun
+busy, meşgul
+easy, kolay
+difficult, zor
+big, büyük
+small, küçük
+hot, sıcak
+cold, soğuk
+new, yeni
+old, eski
+beautiful, güzel
+ugly, çirkin
+interesting, ilginç
+boring, sıkıcı
+exciting, heyecan verici
+fun, eğlenceli
+serious, ciddi
+funny, komik
+important, önemli
+useful, kullanışlı
+dangerous, tehlikeli
+safe, güvenli
+healthy, sağlıklı
+sick, hasta
+clean, temiz
+dirty, kirli
+quiet, sessiz
+noisy, gürültülü
+fast, hızlı
+slow, yavaş
+strong, güçlü
+weak, zayıf
+happy, mutlu
+sad, üzgün
+excited, heyecanlı
+surprised, şaşırmış
+afraid, korkmuş
+proud, gururlu
+embarrassed, utanmış
+confused, kafası karışmış
+smart, zeki
+stupid, aptal
+kind, nazik
+mean, kaba
+polite, kibar
+rude, terbiyesiz
+efficient, verimli
+familiar, tanıdık
+in a bit, birazdan
+opposite, karşıt
+wooden, ahşap
+convenient, pratik
+frequent, sık
+when it rains, yağmur yağarken
+bilingual, iki dilli
+recent, yeni
+necessary, gerekli
+towards, doğruca
+religious, dindar
+architect, mimar
+available, müsait
+whole, bütün
+includes, dahil etmek
+present, hediye, sunmak
+consider, düşünmek
+rest, dinlenmek
+prepares, hazırlamak
+nervous, sinirli
+kind, tür
+also, ayrıca
+grown, büyümüş
+then, sonra
+skillet, tava
+stove, ocak
+pour, dökmek
+bowl, çanak
+stir, karıştırmak
+dining room table, yemek masası
+sat down, oturdu
+thought, düşünce
+spoon, kaşık
+dishwashing, bulaşık yıkama
+pan, tava
+damp, nemli
+wipe, silme
+closet, dolap
+görünüm, view
+known, bilinen
+threat, tehdit
+treat, zevk
+as, kadar
+is there, var mı
+so so, şöyle böyle
+i think so too, Bence de öyle
+pretty, oldukça
+currently, şu anda
+far, uzak
+else, başka
+headmaster, başöğretmen
+principal, müdür
+figure out, çözmek
+ruler, cetvel
+crayon, pastel boya
+pupil, öğrenci
+frustration, hüsran
+pretty sure, oldukça emin
+fundamentals, temel bilgiler
+obstacle, engel
+unique, benzersiz
+rather, yerine
+beneath, altında
+doe, dişi geyik
+axis, eksen
+horizontal, yatay
+vertical, dikey
+summarize, özet geç
+recap, özet
+boundary, sınır
+certain, belirli
+minister, bakan
+intervention, müdahale
+though, rağmen
+even, hatta
+reusing, yeniden kullanmak
+exact, bire bir aynı
+denotes, belirtir
+in fact, aslında
+spawn, ortaya çıkmak
+projectile, mermi
+letter, mektup
+convenient, uygun
+instantiate, örneklendirmek
+disease, hastalık
+immune, bağışıklık
+orderly, düzenli
+deer, geyik
+statement, açıklama
+moose, geyik
+rearrange, yeniden düzenlemek
+messy, dağınık
+depth, derinlik
+definition, tanım
+similar, benzer
+narrator, dış ses
+fence, çit
+above, yukarıda
+admit, kabul etmek
+dont approach, yaklaşma
+benefit, yarar
+candidate, aday
+citizen, vatandaş
+commercial, ticari
+common, ortak
+compare, karşılaştırmak
+concern, ilgilendirmek
+condition, şart
+despite, rağmen
+during, sırasında
+effort, çaba
+establish, kurmak
+evidence, delil
+ground, zemin
+majority, çoğunluk
+measure, ölçüm
+nearly, neredeyse
+pick, almak
+prepare, hazırlamak
+prevent, engel olmak
+produce, üretmek
+raise, yükseltmek
+receive, teslim almak
+recognize, tanımak
+represent, temsil etmek
+seek, aramak
+stuff, şey
+structure, yapı
+throughout, boyunca
+treat, tedavi etmek
+pan, tava
+damp, nemli
+wipe, silme
+closet, dolap
+view, görünüm
+pan, tava
